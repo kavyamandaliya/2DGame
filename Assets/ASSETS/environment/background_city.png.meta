@@ -1,0 +1,4663 @@
+fileFormatVersion: 2
+guid: dae124c0f0acc43c697672fbe250ed0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5944033198406312984
+    second: background_city_0
+  - first:
+      213: -5941777143989756725
+    second: background_city_1
+  - first:
+      213: 6438904626945800904
+    second: background_city_2
+  - first:
+      213: 8897507813320454918
+    second: background_city_3
+  - first:
+      213: 3428802517176917329
+    second: background_city_4
+  - first:
+      213: -1732616914485218720
+    second: background_city_5
+  - first:
+      213: 9215036725945672281
+    second: background_city_6
+  - first:
+      213: 735234434137055628
+    second: background_city_7
+  - first:
+      213: 7323524595970272553
+    second: background_city_8
+  - first:
+      213: 3892793865667966085
+    second: background_city_9
+  - first:
+      213: -8340378808142998218
+    second: background_city_10
+  - first:
+      213: 3340253264407816738
+    second: background_city_11
+  - first:
+      213: 3468833580962816859
+    second: background_city_12
+  - first:
+      213: 605735178149674614
+    second: background_city_13
+  - first:
+      213: 2538579575398724212
+    second: background_city_14
+  - first:
+      213: 2257633580765699161
+    second: background_city_15
+  - first:
+      213: 2553193402226821360
+    second: background_city_16
+  - first:
+      213: -3696396243594775434
+    second: background_city_17
+  - first:
+      213: 5948661280716499614
+    second: background_city_18
+  - first:
+      213: 5391314180884828990
+    second: background_city_19
+  - first:
+      213: 5457510028943449245
+    second: background_city_20
+  - first:
+      213: -2933553656982047754
+    second: background_city_21
+  - first:
+      213: -6869351240980339879
+    second: background_city_22
+  - first:
+      213: -8698342916069934844
+    second: background_city_23
+  - first:
+      213: -8043624848085039293
+    second: background_city_24
+  - first:
+      213: 8323084969205459507
+    second: background_city_25
+  - first:
+      213: 5255809466940336572
+    second: background_city_26
+  - first:
+      213: 3434816890130128074
+    second: background_city_27
+  - first:
+      213: -6444214218930842905
+    second: background_city_28
+  - first:
+      213: -5570042854928166947
+    second: background_city_29
+  - first:
+      213: -1349773833115599202
+    second: background_city_30
+  - first:
+      213: 3543801358223065190
+    second: background_city_31
+  - first:
+      213: -5457997105979202024
+    second: background_city_32
+  - first:
+      213: -132626492388729142
+    second: background_city_33
+  - first:
+      213: -6612209705748077479
+    second: background_city_34
+  - first:
+      213: 2206252379629223776
+    second: background_city_35
+  - first:
+      213: 1900155614670673354
+    second: background_city_36
+  - first:
+      213: 7508198313123337945
+    second: background_city_37
+  - first:
+      213: -355549053450477365
+    second: background_city_38
+  - first:
+      213: -452709514278133715
+    second: background_city_39
+  - first:
+      213: 3935715840933681783
+    second: background_city_40
+  - first:
+      213: 1931411172452313633
+    second: background_city_41
+  - first:
+      213: -4143973687107083097
+    second: background_city_42
+  - first:
+      213: 8899118427544658793
+    second: background_city_43
+  - first:
+      213: -4541312148419834170
+    second: background_city_44
+  - first:
+      213: -6864157074040227294
+    second: background_city_45
+  - first:
+      213: 5400023817429747852
+    second: background_city_46
+  - first:
+      213: -3292722647069933640
+    second: background_city_47
+  - first:
+      213: -1816988508427443149
+    second: background_city_48
+  - first:
+      213: 4700998703769014330
+    second: background_city_49
+  - first:
+      213: -6332236813069417443
+    second: background_city_50
+  - first:
+      213: 7423234688493588800
+    second: background_city_51
+  - first:
+      213: -1738565676502402387
+    second: background_city_52
+  - first:
+      213: 6085947517758868484
+    second: background_city_53
+  - first:
+      213: -5374390036256333134
+    second: background_city_54
+  - first:
+      213: 7817239627655046406
+    second: background_city_55
+  - first:
+      213: -2958060500968043934
+    second: background_city_56
+  - first:
+      213: -1224559700186788183
+    second: background_city_57
+  - first:
+      213: 3931761633520178102
+    second: background_city_58
+  - first:
+      213: -2855276073162558825
+    second: background_city_59
+  - first:
+      213: 3967340647495113079
+    second: background_city_60
+  - first:
+      213: -7844031938424585602
+    second: background_city_61
+  - first:
+      213: -502269056262287610
+    second: background_city_62
+  - first:
+      213: -2650807399959106188
+    second: background_city_63
+  - first:
+      213: -29505741867516949
+    second: background_city_64
+  - first:
+      213: -7897016606848762450
+    second: background_city_65
+  - first:
+      213: -4516580184427699537
+    second: background_city_66
+  - first:
+      213: -7286075472430381505
+    second: background_city_67
+  - first:
+      213: 1317028925543603262
+    second: background_city_68
+  - first:
+      213: 3075467487374989468
+    second: background_city_69
+  - first:
+      213: -8080502284382847836
+    second: background_city_70
+  - first:
+      213: 5005135827342441696
+    second: background_city_71
+  - first:
+      213: 328204725495063205
+    second: background_city_72
+  - first:
+      213: -126352623343568010
+    second: background_city_73
+  - first:
+      213: 625789180944713673
+    second: background_city_74
+  - first:
+      213: -7262999899609126987
+    second: background_city_75
+  - first:
+      213: 8952378306880224646
+    second: background_city_76
+  - first:
+      213: -1527711370495332017
+    second: background_city_77
+  - first:
+      213: 7086277139655830927
+    second: background_city_78
+  - first:
+      213: -5653787078022441809
+    second: background_city_79
+  - first:
+      213: -8936232069357484552
+    second: background_city_80
+  - first:
+      213: -2762773376088726740
+    second: background_city_81
+  - first:
+      213: -3347947750739302341
+    second: background_city_82
+  - first:
+      213: -9049262224886324540
+    second: background_city_83
+  - first:
+      213: 2007849521132782926
+    second: background_city_84
+  - first:
+      213: -4409747288686794118
+    second: background_city_85
+  - first:
+      213: -8651856910040211023
+    second: background_city_86
+  - first:
+      213: 4463571079859387637
+    second: background_city_87
+  - first:
+      213: -8555831533099533570
+    second: background_city_88
+  - first:
+      213: 7158991338967736833
+    second: background_city_89
+  - first:
+      213: -4186137126833533469
+    second: background_city_90
+  - first:
+      213: 3731805925731172790
+    second: background_city_91
+  - first:
+      213: -6453853511060669286
+    second: background_city_92
+  - first:
+      213: -1766902803295956746
+    second: background_city_93
+  - first:
+      213: 2679937047739156852
+    second: background_city_94
+  - first:
+      213: 9029275916541937433
+    second: background_city_95
+  - first:
+      213: 7409518300897001813
+    second: background_city_96
+  - first:
+      213: -4022290482734511743
+    second: background_city_97
+  - first:
+      213: 4554853288899713649
+    second: background_city_98
+  - first:
+      213: 4250527225975480098
+    second: background_city_99
+  - first:
+      213: -6400787760696776793
+    second: background_city_100
+  - first:
+      213: 6869764239768939942
+    second: background_city_101
+  - first:
+      213: 1183335812092288674
+    second: background_city_102
+  - first:
+      213: 4097708865263788238
+    second: background_city_103
+  - first:
+      213: 4055025560517032903
+    second: background_city_104
+  - first:
+      213: -576832898483649171
+    second: background_city_105
+  - first:
+      213: -5650769786258421108
+    second: background_city_106
+  - first:
+      213: -6754565884109290680
+    second: background_city_107
+  - first:
+      213: -9202298341617373071
+    second: background_city_108
+  - first:
+      213: 8060101652985715626
+    second: background_city_109
+  - first:
+      213: -5042241781781614727
+    second: background_city_110
+  - first:
+      213: -2507064064192113177
+    second: background_city_111
+  - first:
+      213: 7674960305046406350
+    second: background_city_112
+  - first:
+      213: 4071721171939506975
+    second: background_city_113
+  - first:
+      213: 5973179729911946435
+    second: background_city_114
+  - first:
+      213: -8314906408765306322
+    second: background_city_115
+  - first:
+      213: -6771492507999118810
+    second: background_city_116
+  - first:
+      213: 323468965682709118
+    second: background_city_117
+  - first:
+      213: 2156060040626357881
+    second: background_city_118
+  - first:
+      213: 1277865235545967920
+    second: background_city_119
+  - first:
+      213: 6696356667634970067
+    second: background_city_120
+  - first:
+      213: -2218860153646047307
+    second: background_city_121
+  - first:
+      213: 2948586624724789906
+    second: background_city_122
+  - first:
+      213: -2720803453274638795
+    second: background_city_123
+  - first:
+      213: -6238005732377173570
+    second: background_city_124
+  - first:
+      213: 1662620375333321404
+    second: background_city_125
+  - first:
+      213: -4689779699725240001
+    second: background_city_126
+  - first:
+      213: -8030520862806410239
+    second: background_city_127
+  - first:
+      213: -6699850591714578000
+    second: background_city_128
+  - first:
+      213: 3721472418238602722
+    second: background_city_129
+  - first:
+      213: -1713562515624154229
+    second: background_city_130
+  - first:
+      213: 2813962130406889920
+    second: background_city_131
+  - first:
+      213: 5199755249117161084
+    second: background_city_132
+  - first:
+      213: 3058297108518942848
+    second: background_city_133
+  - first:
+      213: -6900119683317356007
+    second: background_city_134
+  - first:
+      213: -454602869064062421
+    second: background_city_135
+  - first:
+      213: -9059494117065103994
+    second: background_city_136
+  - first:
+      213: -2651793612708462757
+    second: background_city_137
+  - first:
+      213: -5179720436642103154
+    second: background_city_138
+  - first:
+      213: -8989765623591800968
+    second: background_city_139
+  - first:
+      213: 2687348527887732712
+    second: background_city_140
+  - first:
+      213: -8640630728345149840
+    second: background_city_141
+  - first:
+      213: 1343577326014519226
+    second: background_city_142
+  - first:
+      213: -4916782465514820849
+    second: background_city_143
+  - first:
+      213: -424266989919539645
+    second: background_city_144
+  - first:
+      213: -4968421194510237939
+    second: background_city_145
+  - first:
+      213: 1545100131170427477
+    second: background_city_146
+  - first:
+      213: 3962221500336662874
+    second: background_city_147
+  - first:
+      213: 2960700827109743295
+    second: background_city_148
+  - first:
+      213: -2908402706610320210
+    second: background_city_149
+  - first:
+      213: 2257884587600522457
+    second: background_city_150
+  - first:
+      213: -4608054242573245116
+    second: background_city_151
+  - first:
+      213: -3771830581421410815
+    second: background_city_152
+  - first:
+      213: 107775207807660398
+    second: background_city_153
+  - first:
+      213: 4104418378692162116
+    second: background_city_154
+  - first:
+      213: -3315451091585993069
+    second: background_city_155
+  - first:
+      213: 2162288408477015139
+    second: background_city_156
+  - first:
+      213: -3963702466652117174
+    second: background_city_157
+  - first:
+      213: -2076406876072510771
+    second: background_city_158
+  - first:
+      213: 7180562156863928876
+    second: background_city_159
+  - first:
+      213: 850937419276546351
+    second: background_city_160
+  - first:
+      213: 1575917437980534631
+    second: background_city_161
+  - first:
+      213: -2500927137995598697
+    second: background_city_162
+  - first:
+      213: 3741366236811822823
+    second: background_city_163
+  - first:
+      213: -8725421999648836380
+    second: background_city_164
+  - first:
+      213: 8050854776282273129
+    second: background_city_165
+  - first:
+      213: -1762297474444503443
+    second: background_city_166
+  - first:
+      213: -8315347884853148339
+    second: background_city_167
+  - first:
+      213: -3163657142102040580
+    second: background_city_168
+  - first:
+      213: 6965734458328744381
+    second: background_city_169
+  - first:
+      213: -722479479887734002
+    second: background_city_170
+  - first:
+      213: -7110052033829084088
+    second: background_city_171
+  - first:
+      213: -2038757647035528012
+    second: background_city_172
+  - first:
+      213: 1674148724542851734
+    second: background_city_173
+  - first:
+      213: 4219894850246563019
+    second: background_city_174
+  - first:
+      213: -7303821550810885025
+    second: background_city_175
+  - first:
+      213: -8318023002387603813
+    second: background_city_176
+  - first:
+      213: -1107352649883653560
+    second: background_city_177
+  - first:
+      213: 8592068220917229341
+    second: background_city_178
+  - first:
+      213: 6936912408403463790
+    second: background_city_179
+  - first:
+      213: -7669207101609021847
+    second: background_city_180
+  - first:
+      213: 5561661719115532530
+    second: background_city_181
+  - first:
+      213: 6691766467202155505
+    second: background_city_182
+  - first:
+      213: -6717201209465475682
+    second: background_city_183
+  - first:
+      213: -6952625976840474620
+    second: background_city_184
+  - first:
+      213: -1829657122834546048
+    second: background_city_185
+  - first:
+      213: 8384727812756654364
+    second: background_city_186
+  - first:
+      213: 663508975854117668
+    second: background_city_187
+  - first:
+      213: 7180518522338193955
+    second: background_city_188
+  - first:
+      213: 3606107992940017379
+    second: background_city_189
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: background_city_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814232c73b27d7250800000000000000
+      internalID: 5944033198406312984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 490
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc94fd1b219a8da0800000000000000
+      internalID: -5941777143989756725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 490
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca39b7b4a59b5950800000000000000
+      internalID: 6438904626945800904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 490
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6037a37173c4a7b70800000000000000
+      internalID: 8897507813320454918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 490
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d9b4909bd859f20800000000000000
+      internalID: 3428802517176917329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 490
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0627648981284f7e0800000000000000
+      internalID: -1732616914485218720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 490
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952ab22341362ef70800000000000000
+      internalID: 9215036725945672281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 490
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81ef5982d3143a00800000000000000
+      internalID: 735234434137055628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 490
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92de4ae71d262a560800000000000000
+      internalID: 7323524595970272553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 490
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58475fa556bf50630800000000000000
+      internalID: 3892793865667966085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 490
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635d078c9a5014c80800000000000000
+      internalID: -8340378808142998218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_11
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 490
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22aedd485a6fa5e20800000000000000
+      internalID: 3340253264407816738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 490
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b532c3263c5c32030800000000000000
+      internalID: 3468833580962816859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_13
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 490
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67eb1996fe0086800800000000000000
+      internalID: 605735178149674614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_14
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 490
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472f3b18ca8da3320800000000000000
+      internalID: 2538579575398724212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_15
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 490
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c588eb7c9b45f10800000000000000
+      internalID: 2257633580765699161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 490
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8c9963fd3ce6320800000000000000
+      internalID: 2553193402226821360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_17
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 490
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674f1776333c3bcc0800000000000000
+      internalID: -3696396243594775434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_18
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 490
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a2a3edae3ed8250800000000000000
+      internalID: 5948661280716499614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e339a20eeabc1da40800000000000000
+      internalID: 5391314180884828990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 440
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c5e49c478fcbb40800000000000000
+      internalID: 5457510028943449245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 440
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3790add7ce947d0800000000000000
+      internalID: -2933553656982047754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 440
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9536af311792ba0a0800000000000000
+      internalID: -6869351240980339879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 440
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409bd112437494780800000000000000
+      internalID: -8698342916069934844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_24
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 440
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347c26f41dd4f5090800000000000000
+      internalID: -8043624848085039293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 440
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a62e09ea9818370800000000000000
+      internalID: 8323084969205459507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_26
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 440
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb92d1c1dd260f840800000000000000
+      internalID: 5255809466940336572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 440
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accd7bc53cbeaaf20800000000000000
+      internalID: 3434816890130128074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_28
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 440
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e21b109f4d8196a0800000000000000
+      internalID: -6444214218930842905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_29
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 440
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfcd48e88b33b2b0800000000000000
+      internalID: -5570042854928166947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_30
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 440
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ef606a9d3a44de0800000000000000
+      internalID: -1349773833115599202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_31
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 440
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660ce673f8c1e2130800000000000000
+      internalID: 3543801358223065190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_32
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 440
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816eff0cc8c4144b0800000000000000
+      internalID: -5457997105979202024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_33
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 440
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace1d5968e0d82ef0800000000000000
+      internalID: -132626492388729142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_34
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 440
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954ee7c3e46bc34a0800000000000000
+      internalID: -6612209705748077479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_35
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 440
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ff8ac99de2e9e10800000000000000
+      internalID: 2206252379629223776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_36
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 440
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5d86ec675be5a10800000000000000
+      internalID: 1900155614670673354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_37
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 440
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d657ece59a723860800000000000000
+      internalID: 7508198313123337945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0abd80506d01bf0800000000000000
+      internalID: -355549053450477365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_39
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 390
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2023076817a7b9f0800000000000000
+      internalID: -452709514278133715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_40
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 390
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77adabb74b87e9630800000000000000
+      internalID: 3935715840933681783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_41
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 390
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12aad317a30cdca10800000000000000
+      internalID: 1931411172452313633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 390
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4aa6523e5ad76c0800000000000000
+      internalID: -4143973687107083097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_43
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 390
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963aeef6f05008b70800000000000000
+      internalID: 8899118427544658793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_44
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 390
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce054379a40af0c0800000000000000
+      internalID: -4541312148419834170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_45
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 390
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22af85f428d9db0a0800000000000000
+      internalID: -6864157074040227294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_46
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 390
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c888c882d0db0fa40800000000000000
+      internalID: 5400023817429747852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_47
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 390
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf3385b236ed42d0800000000000000
+      internalID: -3292722647069933640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_48
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 390
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33427321492c8c6e0800000000000000
+      internalID: -1816988508427443149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_49
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 390
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3059b30a6d4d3140800000000000000
+      internalID: 4700998703769014330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_50
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 390
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14885b0b206f18a0800000000000000
+      internalID: -6332236813069417443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_51
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 390
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04194048e90a40760800000000000000
+      internalID: 7423234688493588800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_52
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 390
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa33618abf5fd7e0800000000000000
+      internalID: -1738565676502402387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_53
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 390
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c00bdc501a57450800000000000000
+      internalID: 6085947517758868484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_54
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 390
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2ea8c9cb45a65b0800000000000000
+      internalID: -5374390036256333134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_55
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 390
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6056c7a160a6c7c60800000000000000
+      internalID: 7817239627655046406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_56
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 390
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a8fa795abd2f6d0800000000000000
+      internalID: -2958060500968043934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae8b10d07d710fe0800000000000000
+      internalID: -1224559700186788183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_58
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 340
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3da73df5c609630800000000000000
+      internalID: 3931761633520178102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_59
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 340
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79239731a850068d0800000000000000
+      internalID: -2855276073162558825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_60
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 340
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7791aec8c43de0730800000000000000
+      internalID: 3967340647495113079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_61
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 340
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72426fe286642390800000000000000
+      internalID: -7844031938424585602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_62
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 340
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fc0d754f49709f0800000000000000
+      internalID: -502269056262287610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 340
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47de57dd6b0763bd0800000000000000
+      internalID: -2650807399959106188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_64
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 340
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebf6212fac279ff0800000000000000
+      internalID: -29505741867516949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 340
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead3b6b7c39286290800000000000000
+      internalID: -7897016606848762450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_66
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 340
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa26e9b8042e151c0800000000000000
+      internalID: -4516580184427699537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_67
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 340
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36c91b06f8a2ea90800000000000000
+      internalID: -7286075472430381505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_68
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 340
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cd0f174d6074210800000000000000
+      internalID: 1317028925543603262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_69
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 340
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98df3f92614eaa20800000000000000
+      internalID: 3075467487374989468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_70
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 340
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acb0a41cf94cdf80800000000000000
+      internalID: -8080502284382847836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_71
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 340
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecb3514480d57540800000000000000
+      internalID: 5005135827342441696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_72
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 340
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2ecbc75740e8400800000000000000
+      internalID: 328204725495063205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_73
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 340
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bfa2165fa1f3ef0800000000000000
+      internalID: -126352623343568010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_74
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 340
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c70e7ac1ff3fa800800000000000000
+      internalID: 625789180944713673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_75
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 340
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7a9148214a43b90800000000000000
+      internalID: -7262999899609126987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d328c63ac3d3c70800000000000000
+      internalID: 8952378306880224646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_77
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 290
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41fc4a4a9a7ccae0800000000000000
+      internalID: -1527711370495332017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_78
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 290
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d28298383875260800000000000000
+      internalID: 7086277139655830927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_79
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 290
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa457ca8b96b981b0800000000000000
+      internalID: -5653787078022441809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_80
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 290
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f54e7377402cf380800000000000000
+      internalID: -8936232069357484552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_81
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 290
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2323539048a8a9d0800000000000000
+      internalID: -2762773376088726740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_82
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 290
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38ad964243b981d0800000000000000
+      internalID: -3347947750739302341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_83
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 290
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c22a4693ff8a6280800000000000000
+      internalID: -9049262224886324540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 290
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45ce8d50805ddb10800000000000000
+      internalID: 2007849521132782926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_85
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 290
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ae49c643e6dc2c0800000000000000
+      internalID: -4409747288686794118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_86
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 290
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b16b85dafd6ee780800000000000000
+      internalID: -8651856910040211023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_87
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 290
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcb9b48f3ac1fd30800000000000000
+      internalID: 4463571079859387637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_88
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 290
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa34872d84934980800000000000000
+      internalID: -8555831533099533570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_89
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 290
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102254d51b8d95360800000000000000
+      internalID: 7158991338967736833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_90
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 290
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed4306567ad7e5c0800000000000000
+      internalID: -4186137126833533469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_91
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 290
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b187eda7b90ac330800000000000000
+      internalID: 3731805925731172790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_92
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 290
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c32d8fc6e4f66a0800000000000000
+      internalID: -6453853511060669286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_93
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 290
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f017e80343ba77e0800000000000000
+      internalID: -1766902803295956746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_94
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 290
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479c6e6cb8c013520800000000000000
+      internalID: 2679937047739156852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917c8706b9e6e4d70800000000000000
+      internalID: 9029275916541937433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_96
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 240
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551c8b923a5e3d660800000000000000
+      internalID: 7409518300897001813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_97
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 240
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189cc21fd14fd28c0800000000000000
+      internalID: -4022290482734511743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_98
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 240
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a13e00fe6163f30800000000000000
+      internalID: 4554853288899713649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_99
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 240
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f1564edf7ecfa30800000000000000
+      internalID: 4250527225975480098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_100
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 240
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a72009c175db27a0800000000000000
+      internalID: -6400787760696776793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_101
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 240
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adeb12bd2e465f50800000000000000
+      internalID: 6869764239768939942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_102
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 240
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae52c9c6ad0c6010800000000000000
+      internalID: 1183335812092288674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_103
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 240
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0640b908cfdd830800000000000000
+      internalID: 4097708865263788238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_104
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 240
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb3fb94348564830800000000000000
+      internalID: 4055025560517032903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_105
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 240
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d658f17f88daef7f0800000000000000
+      internalID: -576832898483649171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_106
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 240
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a8e8681de6491b0800000000000000
+      internalID: -5650769786258421108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_107
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 240
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84381b99d16f242a0800000000000000
+      internalID: -6754565884109290680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_108
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 240
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170fab60a6eda4080800000000000000
+      internalID: -9202298341617373071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_109
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 240
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab90c7cfbb3bdf60800000000000000
+      internalID: 8060101652985715626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_110
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 240
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f264d70db560ab0800000000000000
+      internalID: -5042241781781614727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_111
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 240
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e59ea0448e153dd0800000000000000
+      internalID: -2507064064192113177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_112
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 240
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4c387dbbfe28a60800000000000000
+      internalID: 7674960305046406350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_113
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 240
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b34ed35d8a18830800000000000000
+      internalID: 4071721171939506975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc17fc215ff4e250800000000000000
+      internalID: 5973179729911946435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_115
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 190
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2accececa48b9c80800000000000000
+      internalID: -8314906408765306322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_116
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 190
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a5e7dd073d602a0800000000000000
+      internalID: -6771492507999118810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_117
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 190
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72816b7f413d7400800000000000000
+      internalID: 323468965682709118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_118
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 190
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976c2f30f2ddbed10800000000000000
+      internalID: 2156060040626357881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_119
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 190
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dc98b49a3ebb110800000000000000
+      internalID: 1277865235545967920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_120
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 190
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd63bf09ec3eec50800000000000000
+      internalID: 6696356667634970067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_121
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 190
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf98af32760531e0800000000000000
+      internalID: -2218860153646047307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_122
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 190
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a6034b9eb7be820800000000000000
+      internalID: 2948586624724789906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_123
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 190
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536b8e7bca3cd3ad0800000000000000
+      internalID: -2720803453274638795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_124
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 190
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1eec636d62e69a0800000000000000
+      internalID: -6238005732377173570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_125
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 190
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbab1142c60d21710800000000000000
+      internalID: 1662620375333321404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_126
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 190
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39f90be53e8aeeb0800000000000000
+      internalID: -4689779699725240001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_127
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 190
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c7f03a2dbdd8090800000000000000
+      internalID: -8030520862806410239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_128
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 190
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b179a852695503a0800000000000000
+      internalID: -6699850591714578000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_129
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 190
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed968a727355a330800000000000000
+      internalID: 3721472418238602722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_130
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 190
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b2ccb88f33838e0800000000000000
+      internalID: -1713562515624154229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_131
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 190
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9dd4a06a33d0720800000000000000
+      internalID: 2813962130406889920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_132
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 190
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76e99e79dd392840800000000000000
+      internalID: 5199755249117161084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08830e24401417a20800000000000000
+      internalID: 3058297108518942848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_134
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 140
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a2038d4b9dd30a0800000000000000
+      internalID: -6900119683317356007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_135
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 140
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a2093691de0b9f0800000000000000
+      internalID: -454602869064062421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_136
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 140
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685e79b8916364280800000000000000
+      internalID: -9059494117065103994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_137
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 140
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fbcd052cfe23bd0800000000000000
+      internalID: -2651793612708462757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_138
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 140
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80cd1ac4bfed18b0800000000000000
+      internalID: -5179720436642103154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_139
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 140
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87feacf8bcfed3380800000000000000
+      internalID: -8989765623591800968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_140
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 140
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efca687f316b4520800000000000000
+      internalID: 2687348527887732712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_141
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 140
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e99a1f120561880800000000000000
+      internalID: -8640630728345149840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_142
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 140
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab75d5d957855a210800000000000000
+      internalID: 1343577326014519226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_143
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 140
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bae19d56414cbb0800000000000000
+      internalID: -4916782465514820849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_144
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 140
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34eebe7ab63bc1af0800000000000000
+      internalID: -424266989919539645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_145
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 140
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ff1b65f3f9c0bb0800000000000000
+      internalID: -4968421194510237939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_146
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 140
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552a2dc026c417510800000000000000
+      internalID: 1545100131170427477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_147
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 140
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a596bf83673acf630800000000000000
+      internalID: 3962221500336662874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_148
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 140
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbad41e37b5861920800000000000000
+      internalID: 2960700827109743295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_149
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 140
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac05b0d52743a7d0800000000000000
+      internalID: -2908402706610320210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_150
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 140
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc22c3d11e955f10800000000000000
+      internalID: 2257884587600522457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_151
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 140
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445a0b5b417ec00c0800000000000000
+      internalID: -4608054242573245116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106fb69f114c7abc0800000000000000
+      internalID: -3771830581421410815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_153
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 90
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6138f00bf4ee7100800000000000000
+      internalID: 107775207807660398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_154
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 90
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442f78fe4c2d5f830800000000000000
+      internalID: 4104418378692162116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_155
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 90
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396f5d75cc62df1d0800000000000000
+      internalID: -3315451091585993069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_156
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 90
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c9739e9ddf10e10800000000000000
+      internalID: 2162288408477015139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_157
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 90
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a476cdf6b991ef8c0800000000000000
+      internalID: -3963702466652117174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_158
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 90
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaf48e82fe1f23e0800000000000000
+      internalID: -2076406876072510771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_159
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 90
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2abc77cc3b76a360800000000000000
+      internalID: 7180562156863928876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_160
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 90
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21f01a03132fcb00800000000000000
+      internalID: 850937419276546351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_161
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 90
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7676c2e6f88ced510800000000000000
+      internalID: 1575917437980534631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_162
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 90
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79453aab40cea4dd0800000000000000
+      internalID: -2500927137995598697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_163
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 90
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e60fcf05c00ce330800000000000000
+      internalID: 3741366236811822823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_164
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 90
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e47d8babe219e680800000000000000
+      internalID: -8725421999648836380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_165
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 90
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965df8683c16abf60800000000000000
+      internalID: 8050854776282273129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_166
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 90
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66da27b8cf0b87e0800000000000000
+      internalID: -1762297474444503443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_167
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 90
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d454883c723f99c80800000000000000
+      internalID: -8315347884853148339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_168
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 90
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff51ed479e6814d0800000000000000
+      internalID: -3163657142102040580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_169
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 90
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1026475924ba060800000000000000
+      internalID: 6965734458328744381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_170
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 90
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b58cbadbc39f5f0800000000000000
+      internalID: -722479479887734002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844e21d8855045d90800000000000000
+      internalID: -7110052033829084088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_172
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 40
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc0659c8b0e4b3e0800000000000000
+      internalID: -2038757647035528012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_173
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 40
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69acc8b1565cb3710800000000000000
+      internalID: 1674148724542851734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_174
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 40
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc452722204109a30800000000000000
+      internalID: 4219894850246563019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_175
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 40
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5413113ffc93aa90800000000000000
+      internalID: -7303821550810885025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_176
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 40
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e982d6622709c80800000000000000
+      internalID: -8318023002387603813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_177
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 40
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ae896c1a4e1a0f0800000000000000
+      internalID: -1107352649883653560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_178
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 40
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17a1b136882d3770800000000000000
+      internalID: 8592068220917229341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_179
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 40
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e43e4051dd44060800000000000000
+      internalID: 6936912408403463790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_180
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 40
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ee0b736c0819590800000000000000
+      internalID: -7669207101609021847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_181
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 40
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f805c8ddddfe2d40800000000000000
+      internalID: 5561661719115532530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_182
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 40
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3847db52eeddc50800000000000000
+      internalID: 6691766467202155505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_183
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 40
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d6cf8d615b7c2a0800000000000000
+      internalID: -6717201209465475682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_184
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 40
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400354ab28f438f90800000000000000
+      internalID: -6952625976840474620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_185
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 40
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0820fac6a80cb96e0800000000000000
+      internalID: -1829657122834546048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_186
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 40
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19c2b185898c5470800000000000000
+      internalID: 8384727812756654364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_187
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 40
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423611be5e1453900800000000000000
+      internalID: 663508975854117668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_188
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 40
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322b4135d8356a360800000000000000
+      internalID: 7180518522338193955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_city_189
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 40
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6f2e41d187b0230800000000000000
+      internalID: 3606107992940017379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
