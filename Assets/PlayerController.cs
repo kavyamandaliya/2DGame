@@ -7,21 +7,20 @@ public class PlayerController : MonoBehaviour
     public Rigidbody2D rb;
     private void Update()
     {
-        if (Input.GetKey(KeyCode.A))
+        if (Input.GetKey(KeyCode.LeftArrow))
         {
             rb.velocity = new Vector2(-2, rb.velocity.y);
+            transform.localScale = new Vector2(-1, 1);
         }
-        if (Input.GetKey(KeyCode.D))
+        if (Input.GetKey(KeyCode.RightArrow))
         {
             rb.velocity = new Vector2(2, rb.velocity.y);
+            transform.localScale = new Vector2(1, 1);
         }
-        if (Input.GetKey(KeyCode.X))
+     
+        if (Input.GetKey(KeyCode.Space))
         {
-            rb.velocity = new Vector2(0, -2);
-        }
-        if (Input.GetKey(KeyCode.W))
-        {
-            rb.velocity = new Vector2(0, 2);
+            rb.velocity = new Vector2(rb.velocity.x, 3f);
         }
     }
     
