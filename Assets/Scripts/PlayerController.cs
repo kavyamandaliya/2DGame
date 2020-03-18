@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour
 {
@@ -9,7 +10,8 @@ public class PlayerController : MonoBehaviour
     [SerializeField]private LayerMask ground;
     [SerializeField] private float speed = 2f;
     [SerializeField] private float jumpForce = 10f;
-
+    [SerializeField] private int hearts = 0;
+    [SerializeField] private Text heartText;
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -33,5 +35,15 @@ public class PlayerController : MonoBehaviour
             rb.velocity = new Vector2(rb.velocity.x, jumpForce);
         }
     }
-    
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.tag == "Heart")
+        {
+            Destroy(collision.gameObject);
+            hearts++;
+            heartText.text = hearts.ToString(); 
+        }
+    }
+
 }
