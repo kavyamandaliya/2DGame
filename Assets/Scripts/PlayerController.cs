@@ -44,6 +44,11 @@ public class PlayerController : MonoBehaviour
             hearts++;
             heartText.text = hearts.ToString(); 
         }
+        if(collision.tag == "FullEnd")
+        {
+         
+            print("You win");
+        }
     }
 
 }
