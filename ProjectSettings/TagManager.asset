@@ -48,6 +48,9 @@ TagManager:
   - name: Player
     uniqueID: 2797357161
     locked: 0
+  - name: FullPlyerOpp
+    uniqueID: 471452169
+    locked: 0
   - name: Fore
     uniqueID: 3594342205
     locked: 0
