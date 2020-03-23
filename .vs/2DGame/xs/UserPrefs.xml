@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{8A3A7B60-0E04-E1C4-071B-6792558F2011}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerController.cs" Line="44" Column="22" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="82" Column="30" />
       <File FileName="Assets/Scripts/CameraController.cs" />
     </Files>
     <Pads>
@@ -20,7 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b5847d62-a2e4-4cec-a098-204e9d60f14d" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bf7d04c7-17a3-4130-9f15-9a401881afc6" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
