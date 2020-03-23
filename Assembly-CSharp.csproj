@@ -65,6 +65,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <None Include="Assets\Casual Jingles - 022420\Notes.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/kavya/Documents/CS 108/2DGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

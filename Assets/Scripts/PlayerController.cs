@@ -7,6 +7,7 @@ public class PlayerController : MonoBehaviour
 {
     public Rigidbody2D rb;
     private Collider2D coll;
+    public AudioSource fxSound;
     [SerializeField]private LayerMask ground;
     [SerializeField] private float speed = 2f;
     [SerializeField] private float jumpForce = 10f;
@@ -16,6 +17,7 @@ public class PlayerController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         coll = GetComponent<Collider2D>();
+        fxSound = GetComponent<AudioSource>();
     }
     private void Update()
     {
@@ -42,7 +44,9 @@ public class PlayerController : MonoBehaviour
         {
             Destroy(collision.gameObject);
             hearts++;
-            heartText.text = hearts.ToString(); 
+            heartText.text = hearts.ToString();
+            fxSound.Play();
+            print("Play");
         }
         if(collision.tag == "FullEnd")
         {
@@ -50,5 +54,10 @@ public class PlayerController : MonoBehaviour
             print("You win");
         }
     }
+    //private void OnCollisionEnter2D(Collision2D collision)
+    //{
+    //    fxSound.Play();
+    //}
+
 
 }
