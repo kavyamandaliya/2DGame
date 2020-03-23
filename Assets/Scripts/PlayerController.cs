@@ -66,14 +66,15 @@ public class PlayerController : MonoBehaviour
         gameLose.gameObject.SetActive(true);
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    private IEnumerator OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.tag == "Heart")
         {
-            Destroy(collision.gameObject);
+            //Destroy(collision.gameObject);
             hearts++;
             heartText.text = hearts.ToString();
             fxSound.Play();
+
         }
         if(collision.tag == "FullEnd")
         {
@@ -81,6 +82,9 @@ public class PlayerController : MonoBehaviour
             print("You win");
             onGameEnd();
         }
+        collision.gameObject.SetActive(false);
+        yield return new WaitForSeconds(4);
+        collision.gameObject.SetActive(true);
     }
 
     private void onGameEnd()
