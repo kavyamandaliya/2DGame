@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
 using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour
@@ -8,17 +9,31 @@ public class PlayerController : MonoBehaviour
     public Rigidbody2D rb;
     private Collider2D coll;
     public AudioSource fxSound;
+    public RectTransform gameWin;
+    public RectTransform gameLose;
     [SerializeField]private LayerMask ground;
     [SerializeField] private float speed = 2f;
     [SerializeField] private float jumpForce = 10f;
     [SerializeField] private int hearts = 0;
     [SerializeField] private Text heartText;
+
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         coll = GetComponent<Collider2D>();
         fxSound = GetComponent<AudioSource>();
+        heartText.text = hearts.ToString();
     }
+
+
+
+    private void onGameWin()
+    {
+
+        gameWin.gameObject.SetActive(true);
+
+    }
+
     private void Update()
     {
         float hDirection = Input.GetAxis("Horizontal");
@@ -36,6 +51,19 @@ public class PlayerController : MonoBehaviour
         {
             rb.velocity = new Vector2(rb.velocity.x, jumpForce);
         }
+        if (rb.position.y < -10)
+        {
+            print("Died");
+            onGameLose();
+            onGameOverEnd();
+        }
+        
+
+    }
+
+    private void onGameLose()
+    {
+        gameLose.gameObject.SetActive(true);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -46,18 +74,44 @@ public class PlayerController : MonoBehaviour
             hearts++;
             heartText.text = hearts.ToString();
             fxSound.Play();
-            print("Play");
         }
         if(collision.tag == "FullEnd")
         {
-         
+            onGameWin();
             print("You win");
+            onGameEnd();
         }
     }
-    //private void OnCollisionEnter2D(Collision2D collision)
-    //{
-    //    fxSound.Play();
-    //}
 
+    private void onGameEnd()
+    {
+        print("in game end");
+        StartCoroutine(EnableGameoverPanel());
 
+    }
+
+    private IEnumerator EnableGameoverPanel()
+    {
+        yield return new WaitForSeconds(1);
+        gameWin.gameObject.SetActive(false);
+        rb.position = new Vector2(3, 4);
+        hearts = 0;
+        heartText.text = hearts.ToString();
+    }
+
+    private void onGameOverEnd()
+    {
+        print("in game end");
+        StartCoroutine(EnableGameoverEndPanel());
+
+    }
+
+    private IEnumerator EnableGameoverEndPanel()
+    {
+        yield return new WaitForSeconds(1);
+        gameLose.gameObject.SetActive(false);
+        rb.position = new Vector2(3, 4);
+        hearts = 0;
+        heartText.text = hearts.ToString();
+    }
 }
