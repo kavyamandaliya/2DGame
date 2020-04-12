@@ -25,7 +25,17 @@ public class PlayerController : MonoBehaviour
         heartText.text = hearts.ToString();
     }
 
+    void OnCollisionEnter2D(Collision2D col)
+    {
+        if (col.gameObject.name.Equals("Tilemap") || col.gameObject.name.Equals("Tilemap1"))
+            this.transform.parent = col.transform;
+    }
 
+    void OnCollisionExit2D(Collision2D col)
+    {
+        if (col.gameObject.name.Equals("Tilemap") || col.gameObject.name.Equals("Tilemap1"))
+            this.transform.parent = null;
+    }
 
     private void onGameWin()
     {

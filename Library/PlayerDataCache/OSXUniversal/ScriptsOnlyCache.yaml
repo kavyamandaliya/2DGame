@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - CameraController
+    - MoveOnTouch
     - PlayerController
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridBrush
@@ -75,6 +76,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12698}
     - Class: 114
       Script: {instanceID: 13080}
+    - Class: 114
+      Script: {instanceID: 20550}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -534,6 +537,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MoveOnTouch
   platform: 2
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
