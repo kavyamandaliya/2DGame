@@ -36,6 +36,10 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
+        if (Input.GetKey("escape"))
+        {
+            Application.Quit();
+        }
         float hDirection = Input.GetAxis("Horizontal");
         if (hDirection < 0)
         {
