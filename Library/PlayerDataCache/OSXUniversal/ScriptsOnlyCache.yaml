@@ -7,7 +7,6 @@ ScriptsOnlyBuild:
     - backgroundMusci
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridBrush
-    - UnityEditor.Tilemaps.GridBrushEditor
     - UnityEditor.Tilemaps.GridPaintPaletteClipboard
     - UnityEditor.Tilemaps.GridPaintPaletteWindow
     - UnityEditor.Tilemaps.GridPaintingState
@@ -555,4 +554,4 @@ ScriptsOnlyBuild:
   platform: 2
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: /Users/kavya/Documents/CS 108/2DGame/game-mac.app
+  playerPath: /Users/kavya/Documents/CS 108/2DGame/mac_build.app
