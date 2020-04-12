@@ -4,6 +4,7 @@ ScriptsOnlyBuild:
     - CameraController
     - MoveOnTouch
     - PlayerController
+    - backgroundMusci
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridBrush
     - UnityEditor.Tilemaps.GridBrushEditor
@@ -78,6 +79,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 13080}
     - Class: 114
       Script: {instanceID: 20550}
+    - Class: 114
+      Script: {instanceID: 41172}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -543,6 +546,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: MoveOnTouch
+  - hash:
+      serializedVersion: 2
+      Hash: 1d5542b0cc9b45b477141bd04ea4c81d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: backgroundMusci
   platform: 2
   scenePathNames:
   - Assets/Scenes/SampleScene.unity

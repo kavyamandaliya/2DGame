@@ -4,7 +4,7 @@
       <File FileName="Assets/Scripts/PlayerController.cs" Line="39" Column="1" />
       <File FileName="Assets/Scripts/CameraController.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/MoveOnTouch.cs" Line="18" Column="17" />
-      <File FileName="Assets/Scripts/backgroundMusci.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/backgroundMusci.cs" Line="14" Column="24" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
