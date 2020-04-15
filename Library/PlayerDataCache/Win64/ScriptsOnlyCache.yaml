@@ -554,4 +554,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: /Users/kavya/Documents/CS 108/2DGame/window_build/2DGame.exe
+  playerPath: /Users/kavya/Documents/CS 108/2DGame/windows_build/2DGame.exe
